@@ -1,5 +1,7 @@
 # BMW F750GS/F850GS/F850GSA
 
+![cover photo](assets/cover.jpg)
+
 This repository contains my notes on the BMW F750GS and F850GS series of
 motorcycles.
 
