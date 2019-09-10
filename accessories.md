@@ -50,9 +50,55 @@ real risk when following other vehicles off-road)
 
 ### Hard Luggage
 
+Hard luggage is an excellent option for street riding and for parking in places
+where locking luggage is required. However, there is a risk of catching a leg
+between the luggage and the ground or bike in a crash.
+
+#### Vario Cases
+
+The official Vario cases are plastic cases which can be expanded and shrunk
+using an internal lever. This is particularly useful for urban environments-
+the side cases can be kept shrunk while riding to enable lane splitting, and
+then expanded while parked to accomadate a helment and riding gear. The cases
+can also be coded to use the key on the keyless ignition fob.
+
+The Vario side case mounts are integrated into the bike's tail section, so no
+additional racks are required. This keeps the streamlined look of the bike when
+the cases are not mounted.
+
+A drawback of the Vario side cases is that they are side-loading instead of
+top-loading. This is slightly less convenient to pack and unpack.
+
+- [Vario panniers](https://www.bmw-motorrad-bohling.com/bmw-variosuitcase-set-black-f750gs-2017-2019-f850gs-2017-2019-keyless-ride.html)
+- [Vario top case](https://www.bmw-motorrad-bohling.com/bmw-variotopcase-set-f750gs-2017-2019-f850gs-2017-2019-keyless-ride.html)
+
+#### Aftermarket
+
+Various aftermarket luggage systems are available:
+
+- [TouraTech](https://touratech-usa.com/Motorcycle-Panniers-and-Luggage?a=907)
+- [SW-MOTECH](https://sw-motech.com/en/products/luggage/side+cases/)
+- [Jesse Luggage](https://www.jesseluggage.com/product-category/bmw/bmw-f750gs-f850gs/)
+
 ### Soft Luggage
 
+Soft luggage is an excellent option for off-road riding. The soft material is
+unlikely to contribute to injuries in a crash and can pad the bike in a
+tip-over.
+
+Various systems are available:
+
+- [Mosko Moto](https://moskomoto.com/collections/motorcycle-luggage)
+- [Kriega](https://kriega.us/usdrypacks)
+- [Wolfman](https://wolfmanluggage.com/)
+
 ### Improvised Luggage
+
+[ROK Straps](http://rokstrapamerica.com/) can be used to strap duffel bags,
+drypacks, backpacks and other generic luggage to the tail rack. This can be an
+excellent budget option- I find that two ROK straps and a [Skog Å
+Kust](https://www.skogakust.com/) drypack make an effective luggage option for
+well under $80.
 
 ## Sidestand/Kickstand Foot
 
@@ -72,3 +118,11 @@ be used to slide the bike over obstacles such as tree trunks.
 - [Black Dog Cycle Works Ultimate Skid Plate](https://blackdogcw.com/bdcw-ultimate-skid-plate-bmw-f850gsa-f850gs-f750gs/)
 
 ## Windshield
+
+Particularly short or tall riders can use a [Givi Shield+
+deflector](http://giviusa.com/givi-products/accessories/s180t-universal-deflector-clear-detail)
+to add height and adjustability to the OEM windshield. Riders of average height
+may wind that this aims turbulent air at the middle of their face.
+
+Various aftermarket touring windshields are available to replace the OEM
+windshield.
