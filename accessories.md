@@ -30,10 +30,11 @@ Aftermarket footpegs can provide better grip and comfort when riding off-road.
 Handguards provide wind deflection for road riding and protect the rider's
 hands when riding off-road.
 
-- [Barkbusters Variable Protection System](https://barkbusters.net/products/vps/) 
-- BEWARE that the metal guard interferes with the instrument panel at certain
-  angles. In a crash or tip-over, there is a risk that the guard could rotate
-and impact the instrument panel.
+- [Barkbusters Variable Protection
+  System](https://barkbusters.net/products/vps/) Note: BEWARE that the metal
+guard interferes with the TFT display at certain angles. In a crash or
+tip-over, there is a risk that the guard could rotate and impact the TFT
+display.
 - The F850GSA comes equipped with handguards which are suitable for wind
   deflection and minor obstacles when riding off-road, but are made of plastic
 instead of metal and not suitable for hard knocks.
@@ -59,7 +60,7 @@ between the luggage and the ground or bike in a crash.
 The official Vario cases are plastic cases which can be expanded and shrunk
 using an internal lever. This is particularly useful for urban environments-
 the side cases can be kept shrunk while riding to enable lane splitting, and
-then expanded while parked to accomadate a helment and riding gear. The cases
+then expanded while parked to accommodate a helmet and riding gear. The cases
 can also be coded to use the key on the keyless ignition fob.
 
 The Vario side case mounts are integrated into the bike's tail section, so no
@@ -76,9 +77,9 @@ top-loading. This is slightly less convenient to pack and unpack.
 
 Various aftermarket luggage systems are available:
 
-- [TouraTech](https://touratech-usa.com/Motorcycle-Panniers-and-Luggage?a=907)
-- [SW-MOTECH](https://sw-motech.com/en/products/luggage/side+cases/)
 - [Jesse Luggage](https://www.jesseluggage.com/product-category/bmw/bmw-f750gs-f850gs/)
+- [SW-MOTECH](https://sw-motech.com/en/products/luggage/side+cases/)
+- [TouraTech](https://touratech-usa.com/Motorcycle-Panniers-and-Luggage?a=907)
 
 ### Soft Luggage
 
@@ -88,8 +89,8 @@ tip-over.
 
 Various systems are available:
 
-- [Mosko Moto](https://moskomoto.com/collections/motorcycle-luggage)
 - [Kriega](https://kriega.us/usdrypacks)
+- [Mosko Moto](https://moskomoto.com/collections/motorcycle-luggage)
 - [Wolfman](https://wolfmanluggage.com/)
 
 ### Improvised Luggage

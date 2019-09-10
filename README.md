@@ -8,12 +8,13 @@ motorcycles.
 ## Overview
 
 The BMW F750GS/F850GS is a middleweight adventure motorcycle. The bike is a
-connsumate all-rounder and is a good choice for commuting in all weather
+consummate all-rounder and is a good choice for commuting in all weather
 conditions, riding on twisty roads, touring long distances on the highway and
 going on dirt and gravel roads and down many trails.
 
-The bikes are characterized by their 853cc parallel twin engine and their
-accessibility to less experienced and shorter riders.
+The bikes are characterized by their 853cc parallel twin engine, linear
+powerband, suite of electronic rider aids and their accessibility to less
+experienced and shorter riders.
 
 ## Table of Contents
 
