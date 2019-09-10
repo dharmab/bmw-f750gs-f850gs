@@ -12,5 +12,5 @@ maintenance procedures such as oil and filter changes.
 
 The Service Manual covers maintenance and repair of the motorcycle.
 
-As of Auguest 2019, a service manual has not yet been published for the F750GS
+As of August 2019, a service manual has not yet been published for the F750GS
 or F850GS.
