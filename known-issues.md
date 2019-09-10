@@ -24,11 +24,8 @@ organized ride event.
 
 Recommended actions:
 
-- Install the the dual-height brake pedal from an F850GSA.
-- Install an aftermarket dual-height brake pedal, such as an AltRider
-  DualControl.
-- Install aftermarket footpegs, such as PivotPegz or Touratech Works footpegs
-  (low version)
+- [Install a dual-height brake pedal](accessories.md#brake-pedal)
+- [Install aftermarket footpegs](accessories.md#footpegs)
 
 ## Clutch Overheats in Traffic/Slow Riding Conditions
 
