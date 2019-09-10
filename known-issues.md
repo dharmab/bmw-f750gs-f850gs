@@ -8,24 +8,24 @@ being nicknamed "Rarely Displays Correct."
 Recommended action: Carry a reliable tire pressure gauge and regularly check
 tire pressure.
 
-## Brake lever is difficult to reach while standing
+## Brake pedal is difficult to reach while standing
 
-The stock brake lever is positioned too low to be easily reached from a
+The stock brake pedal is positioned too low to be easily reached from a
 standing position, as one would do when riding off-road.
 
-It is not recommened to attempt to adjust the brake lever to compensate. There
+It is not recommened to attempt to adjust the brake pedal to compensate. There
 is very little adjustable clearance, and a setting which allows the tire to
 spin freely on the center stand will cause the brakes to rub, overheat and lock
 up while riding. I have personally locked up my own brake after attempting to
-adjust the lever to my preferred position. Another customer of my dealership
+adjust the pedal to my preferred position. Another customer of my dealership
 also did the same thing- except their brake line failed under the pressure and
 they started shooting flaming brake fluid out of their brake line during an
 organized ride event.
 
 Recommended actions:
 
-- Install the the dual-height brake lever from an F850GSA.
-- Install an aftermarket dual-height brake lever, such as an AltRider
+- Install the the dual-height brake pedal from an F850GSA.
+- Install an aftermarket dual-height brake pedal, such as an AltRider
   DualControl.
 - Install aftermarket footpegs, such as PivotPegz or Touratech Works footpegs
   (low version)
