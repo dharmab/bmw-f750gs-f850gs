@@ -1,6 +1,6 @@
 # Accessories
 
-## Brake Pedals
+## Brake Pedal
 
 A dual-height brake pedal raises the pedal height, making it easier to use the
 rear brake while standing.
