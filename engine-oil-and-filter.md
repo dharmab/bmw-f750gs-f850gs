@@ -45,13 +45,13 @@ The difference between the MIN and MAX markings is 0.5 liters.
 1. Wait for oil to stop draining from lower sump
 1. Optional: Use 5mm hex socket or Allen key to remove drain bolt for upper
    sump (refer to part labeled 11 in diagram)
-1. Wait for oil to drain
-1. Replace 5mm drain bolt and T-50 drain bolt, using new crush washes
+1. Wait for oil to stop draining from upper sump
+1. Replace 5mm drain bolt (if removed) and T-50 drain bolt, using new crush washer
 1. Install new filter _carefully_. The location of the filter will require
    installation using an oil filter wrench. However, care must be taken not to
 over-tighten the filter, or the seal will be damaged and cause an oil leak. The
 ADVRider forums report this mistake being made by professional BMW techs at BMW
 dealerships! Tighten the filter no tighter than you would tighten by hand.
-
-Bring the engine to operating temperature and check the oil level. Add or
+1. Reinstall skid plate (if installed)
+1. Bring the engine to operating temperature and check the oil level. Add or
 remove oil as needed to bring oil level within spec.
