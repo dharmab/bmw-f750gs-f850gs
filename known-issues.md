@@ -36,7 +36,7 @@ The clutch can rapidly overheat in slow-moving/stop and go traffic and other
 slow riding conditions. The clutch lever will become very loose and shifting
 will become difficult.
 
-Recommened actions:
+Recommended actions:
 
 - Avoid dense traffic
 - Lane split/lane filter in dense traffic (if legal in your area)
