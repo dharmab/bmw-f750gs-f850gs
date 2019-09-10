@@ -40,7 +40,8 @@ Recommened actions:
 
 - Avoid dense traffic
 - Lane split/lane filter in dense traffic (if legal in your area)
-- If clutch overheats, pull over to side of road. Allow bike to cool down a bit
-  and then adjust clutch lever as necessary. Remember to loosen clutch lever
-when parking at your destination to avoid overtensioning the cable when the
-bike is fully cooled.
+- Avoid riding the clutch when riding at low speeds
+- If clutch overheats, pull over safely and turn the engine off. Allow bike to
+  cool down a bit and then adjust clutch lever as necessary. Remember to loosen
+clutch lever when parking at your destination to avoid overtensioning the cable
+when the bike is fully cooled.
