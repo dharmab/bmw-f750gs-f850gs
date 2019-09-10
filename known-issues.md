@@ -2,7 +2,7 @@
 
 ## RDC (tire pressure monitoring system) displays incorrect values
 
-The RDC system displays the correct tire pressures. This has led the system to
+The RDC system displays incorrect tire pressures. This has led the system to
 being nicknamed "Rarely Displays Correct."
 
 Recommended action: Carry a reliable tire pressure gauge and regularly check
