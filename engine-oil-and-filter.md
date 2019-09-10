@@ -47,6 +47,7 @@ The difference between the MIN and MAX markings is 0.5 liters.
    sump (refer to part labeled 11 in diagram)
 1. Wait for oil to stop draining from upper sump
 1. Replace 5mm drain bolt (if removed) and T-50 drain bolt, using new crush washer
+1. Use some of the old oil to lubricate the seal on the new oil filter.
 1. Install new filter _carefully_. The location of the filter will require
    installation using an oil filter wrench. However, care must be taken not to
 over-tighten the filter, or the seal will be damaged and cause an oil leak. The
