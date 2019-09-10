@@ -20,6 +20,7 @@ accessibility to less experienced and shorter riders.
    - [Rider and Service Manuals](manuals.md)
    - [Known Issues](known-issues.md)
 - Maintenance
+   - [Maintenance Schedule](maintenance-schedule.md)
    - [Engine Oil and Filter Change](engine-oil-and-filter.md)
 - Customization
    - [Accessories](accessories.md)
