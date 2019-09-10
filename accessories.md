@@ -97,7 +97,8 @@ Various systems are available:
 
 [ROK Straps](http://rokstrapamerica.com/) can be used to strap duffel bags,
 drypacks, backpacks and other generic luggage to the tail rack. This can be an
-excellent budget option- I find that two ROK straps and a [Skog Å
+excellent budget option- I find that two ROK straps and a [Sea to
+Summit](https://seatosummitusa.com/) or [Skog Å
 Kust](https://www.skogakust.com/) drypack make an effective luggage option for
 well under $80.
 
