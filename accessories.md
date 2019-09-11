@@ -9,11 +9,20 @@ rear brake while standing.
 - The F850GSA OEM brake pedal is dual-height, and could possibly be adapted to
 the F750GS and F850GS
 
+## Center Stand
+
+A center stand is included with most bikes from the factory. However, if the
+suspension lowering option is selected then the center stand is removed to
+compensate for ground clearance.
+
+- [SW-MOTECH Centerstand](https://sw-motech.com/en/products/safety/stands/centerstand/4052572056677.htm)
+
 ## Engine Bars
 
 Engine bars protect the engine from damage in a crash or tip-over.
 
 - [AltRider Lower Crash Bars](https://www.altrider.com/altrider-lower-crash-bars-for-the-bmw-f-850-750-gs/pid/2728/cid/3)
+- [GIVI TN5127 Engine Guards](http://giviusa.com/my-motorcycle/bmw/f850gs-19/tn5127-engine-guards-detail)
 - [Hepco-Becker Engine Bars](https://blackdogcw.com/hepco-becker-engine-bars-bmw-f750-850gs-2019/)
 - [SW-MOTECH Crash Bar](https://sw-motech.com/en/products/protection/crash+bar/4052572053867.htm)
 - [Touratech Engine Crash Bars](https://touratech-usa.com/store/Engine-Crash-Bars-BMW-F850GS-F750GS)
@@ -111,6 +120,11 @@ sidestand, which prevents the bike from sinking into soft ground when parked.
 - [Revzilla sells sidestand feet for as low as $5](https://www.revzilla.com/motorcycle-side-stand-feet)
 - [Metal sidestand feet are available on AliExpress for under $10](https://www.aliexpress.com/item/32999761042.html?spm=a2g0o.productlist.0.0.23571245zq4B9v&algo_pvid=53c47799-9548-407d-a04c-0c62b564276c&algo_expid=53c47799-9548-407d-a04c-0c62b564276c-0&btsid=9f609285-a54c-4144-8e96-ee70966496e3&ws_ab_test=searchweb0_0,searchweb201602_4,searchweb201603_52)
 - In a pinch, put a flat rock under your sidestand to spread the weight out.
+
+## Seat
+
+- OEM low and comfort seats are available
+- [Sargent has multiple seats available](https://www.sargentcycle.com/Seats-Accessories/Sargent-Seats-BMW-F750-850GS/)
 
 ## Skid Plate
 
