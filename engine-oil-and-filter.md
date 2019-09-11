@@ -41,6 +41,8 @@ The difference between the MIN and MAX markings is 0.5 liters.
 1. Remove skid plate (if installed)
 1. Using T-50 socket, remove drain bolt for lower sump (refer to part labeled 3
    in diagram)
+1. Recommended: Place aluminum foil under and around oil filter to funnel oil 
+   away from the exhaust and brake pedal
 1. Remove oil filter
 1. Wait for oil to stop draining from lower sump
 1. Optional: Use 5mm hex socket or Allen key to remove drain bolt for upper
