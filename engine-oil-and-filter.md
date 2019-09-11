@@ -30,9 +30,9 @@ requires 3.0 liters of oil, which corresponds to the capacity of the lower sump.
 1. Wait 1 minute
 1. Remove and wipe oil dipstick
 1. Insert oil dipstick without screwing it in
-1. Check oil level
+1. Remove oil dipstick and read oil level
 
-The difference between the MIN and MAX markings is 0.5 liters.
+The difference between the MIN and MAX markings on the dipstick is 0.5 liters.
 
 ## Changing Oil and Filter
 
