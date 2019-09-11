@@ -31,7 +31,9 @@ Recommended actions:
 
 The clutch can rapidly overheat in slow-moving/stop and go traffic and other
 slow riding conditions. The clutch lever will become very loose and shifting
-will become difficult.
+will become difficult, even when the engine is within correct operating
+temperature. (Note that slight loosening of the clutch lever during riding due
+to heat expansion is normal.)
 
 Recommended actions:
 
