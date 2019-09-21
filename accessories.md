@@ -135,10 +135,11 @@ be used to slide the bike over obstacles such as tree trunks.
 
 ## Windshield
 
-Particularly short or tall riders can use a [Givi Shield+
-deflector](http://giviusa.com/givi-products/accessories/s180t-universal-deflector-clear-detail)
-to add height and adjustability to the OEM windshield. Riders of average height
-may wind that this aims turbulent air at the middle of their face.
+A wind deflector such as a [Givi Shield+]
+(http://giviusa.com/givi-products/accessories/s180t-universal-deflector-clear-detail)
+can add a bit of height and adjustability to the OEM windshield. Riders of 
+average height may find that this aims turbulent air at the middle of their
+face.
 
-Various aftermarket touring windshields are available to replace the OEM
-windshield.
+[MADSTAD](https://madstad.com/collections/bmw/products/bmw-f750-850gs-2018) has
+different sizes of windshield available for a range of rider heights.
