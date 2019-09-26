@@ -98,6 +98,7 @@ tip-over.
 
 Various systems are available:
 
+- [Dryspec](https://dryspec.com)
 - [Kriega](https://kriega.us/usdrypacks)
 - [Mosko Moto](https://moskomoto.com/collections/motorcycle-luggage)
 - [Wolfman](https://wolfmanluggage.com/)
