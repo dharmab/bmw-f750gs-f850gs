@@ -136,8 +136,7 @@ be used to slide the bike over obstacles such as tree trunks.
 
 ## Windshield
 
-A wind deflector such as a [Givi Shield+]
-(http://giviusa.com/givi-products/accessories/s180t-universal-deflector-clear-detail)
+A wind deflector such as a [Givi Shield+](http://giviusa.com/givi-products/accessories/s180t-universal-deflector-clear-detail)
 can add a bit of height and adjustability to the OEM windshield. Riders of 
 average height may find that this aims turbulent air at the middle of their
 face.
