@@ -25,5 +25,6 @@ experienced and shorter riders.
 - Maintenance
    - [Maintenance Schedule](maintenance-schedule.md)
    - [Engine Oil and Filter Change](engine-oil-and-filter.md)
+   - [Toolkit](toolkit.md)
 - Customization
    - [Accessories](accessories.md)
