@@ -26,7 +26,7 @@ All of this packs in a fairly small OGIO tail bag with room to spare for persona
 - Metric sockets: 8mm, 10mm, 12mm, 13mm and 14mm
 - Metric wrenches: 8mm, 10mm, 12mm, 13mm and 14mm
 - Adjustable wrench
-- Oil filter wrench
+- Oil filter wrench (F750Gs/F850GS cannot be tightened by hand due to clearance)
 - Multi-bit screwdriver and appropriate bits
 - Tire plug kit
 - Air compressor
