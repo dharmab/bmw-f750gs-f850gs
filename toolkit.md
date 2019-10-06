@@ -4,7 +4,7 @@ This document lists the tools I carry on the bike in addition to the under-seat 
 
 ## Standard Kit
 
-I carry the followking items when riding in populated areas within range of roadside service.
+I carry the following items when riding in populated areas within range of roadside service.
 
 ### On my Person
 
