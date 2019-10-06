@@ -13,7 +13,7 @@ I carry the followking items when riding in populated areas within range of road
 
 ### In a Backpack
 
-- 1-person first aid kit with medicine, boo-boo supplies and trauma pads
+- 1-person first aid kit with medicine, boo-boo supplies, exam gloves and trauma pads
 - Mylar reflective emergency blanket
 
 ### On the Bike
