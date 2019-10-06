@@ -58,3 +58,4 @@ Additional items carried when outside of range of roadside and standard ambulanc
 ### On the Bike
 
 - Trauma first aid supplies (One kit for the whole group, in addition to each rider's individual kit)
+- Oversized zip ties ([last-resort emergency flat tire "fix"](https://www.youtube.com/watch?v=bhZLkQ_9PdQ))
