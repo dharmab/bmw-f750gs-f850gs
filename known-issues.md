@@ -44,3 +44,19 @@ Recommended actions:
   cool down a bit and then adjust clutch lever as necessary. Remember to loosen
 clutch lever when parking at your destination to avoid overtensioning the cable
 when the bike is fully cooled.
+
+## Bluetooth Connectivity is Spotty
+
+The bike's Bluetooth system often forgets previously paired devices. This is
+especially common with Sena devices.
+
+
+## Battery Interferes with Seat Lock
+
+It is possible for the battery terminals to interfere with the under-seat lock
+mechanism, which can make it difficult to remove the seat.
+
+Reccommended actions:
+
+- Whenever installing a new battery, make sure all cables are tucked away from
+the lock mechanism. Test the lock with the seat off before reinstalling the seat.
