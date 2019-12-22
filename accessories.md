@@ -112,6 +112,9 @@ Various systems are available:
 - [Mosko Moto](https://moskomoto.com/collections/motorcycle-luggage)
 - [Wolfman](https://wolfmanluggage.com/)
 
+Note that you will need a rack or heatshield to hang a bag over the exhaust side
+of the bike to prevent the bag from melting.
+
 ### Improvised Luggage
 
 [ROK Straps](http://rokstrapamerica.com/) can be used to strap duffel bags,
@@ -119,7 +122,9 @@ drypacks, backpacks and other generic luggage to the tail rack. This can be an
 excellent budget option- I find that two ROK straps and a [Sea to
 Summit](https://seatosummitusa.com/) or [Skog Å
 Kust](https://www.skogakust.com/) drypack make an effective luggage option for
-well under $80.
+well under $80. For a truly budget option (under $35), buy a very inexpensive 
+drypack from Amazon and line it with a heavy duty garbage bag to compensate for
+poor waterproofing.
 
 ## Sidestand/Kickstand Foot
 
