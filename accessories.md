@@ -39,6 +39,7 @@ Aftermarket footpegs can provide better grip and comfort when riding off-road.
 BMW Navigator GPS units (made by Garmin) mount into the OEM GPS mount and integrate with the bike. The GPS will automatically turn on and off with the bike's ignition system and can be controlled with the menu navigation controls on the left handlebar.
 
 [A phone mount adapter for the OEM GPS mount is available](https://www.aliexpress.com/item/32963526981.html).
+Note that phones with image stabilized cameras can be damaged by vibration when mounted to a motorcycle!
 
 ## Handguards
 
