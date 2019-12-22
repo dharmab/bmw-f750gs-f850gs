@@ -46,10 +46,11 @@ Handguards provide wind deflection for road riding and protect the rider's
 hands when riding off-road.
 
 - [Barkbusters Variable Protection
-  System](https://barkbusters.net/products/vps/) Note: BEWARE that the metal
-guard interferes with the TFT display at certain angles. In a crash or
+  System](https://barkbusters.net/products/vps/) Note: The metal guard
+  interferes with the TFT display at certain angles. In a crash or
 tip-over, there is a risk that the guard could rotate and impact the TFT
-display.
+display. Always test the lock-to-lock steering range after installing
+the handguards or after a hard knock or drop.
 - The F850GSA comes equipped with handguards which are suitable for wind
   deflection and minor obstacles when riding off-road, but are made of plastic
 instead of metal and not suitable for hard knocks.
@@ -149,4 +150,9 @@ average height may find that this aims turbulent air at the middle of their
 face.
 
 [MADSTAD](https://madstad.com/collections/bmw/products/bmw-f750-850gs-2018) has
-different sizes of windshield available for a range of rider heights.
+different sizes of windshield available for a range of rider heights. Note that
+the side deflectors use the same factory bolt holes as used by a headlight
+guard. The optional side deflectors are therefore not compatbile with the
+F850GSA or an aftermarket headlight guard. Also note that the windshield may
+interfere with the rear view mirrors at some heights and angles, so always test
+the lock-to-lock steering range after adjusting the windshield.
