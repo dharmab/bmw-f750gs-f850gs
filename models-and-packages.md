@@ -9,8 +9,8 @@ There are three models of the F750GS/F850GS:
 - The **F850GS Adventure** (aka the GSA), which is an even more off-road
   focused F850GS
 
-All versions of the bike share the same frame and the same 853cc engine block.
-Many of the parts are the same across the models as well.
+All versions of the bike share the same frame and the same 853cc engine.  Many
+of the parts are the same across the models as well.
 
 In addition, there are two option packages available in the US:
 
@@ -26,10 +26,10 @@ Premium package due to high demand for the optional features.
 
 - A different camshaft, intake and engine map are used from the F850GS. This
   lowers power to 77hp/61ft-lb. 
-  - Recommended fuel octane is 91 RON/87 AKI (Regular) 
-  - This also accomodates a governer to further reduce
-power to comply with European A2 license restrictions, making the F750GS
-suitable for less experienced European riders.
+    - Recommended fuel octane is 91 RON/87 AKI (Regular) 
+    - This also accommodates a governor to further reduce power to comply with
+      European A2 license restrictions, making the F750GS suitable for less
+experienced European riders.
 - Cast aluminum alloy wheels are equipped with a 19-inch front wheel diameter.
   This improves on-road handling at the expense of off-road obstacle clearance
 and durability.
@@ -43,7 +43,7 @@ and durability.
 ### F850GS
 
 - The F850GS outputs 90hp/63ft-lb.
-  - Recommended fuel octane is 95 RON/90 AKI (Premium) 
+    - Recommended fuel octane is 95 RON/90 AKI (Premium) 
 - Spoked wheels are used with a 21-inch front wheel diameter. This improves
   off-road obstacle clearance and durability and provides a wider range of
 off-road tire choices.
@@ -72,8 +72,10 @@ documented online.
 
 ### Select
 
-- Dynamic Traction Control (DTC), over the standard Automatic Stability Control (ASC)
-- Lean-sensitive anti-lock braking system (aka cornering ABS), over the standard ABS brakes
+- Dynamic Traction Control (DTC), over the standard Automatic Stability Control
+  (ASC)
+- Lean-sensitive anti-lock braking system (aka cornering ABS), over the
+  standard ABS brakes
 - Quickshifter
 - Keyless ignition system
 - Center stand (exclusive with low suspension)

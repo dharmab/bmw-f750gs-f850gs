@@ -1,10 +1,12 @@
 # Toolkit
 
-This document lists the tools I carry on the bike in addition to the under-seat emergency toolkit.
+This document lists the tools I carry on the bike in addition to the under-seat
+emergency toolkit.
 
 ## Standard Kit
 
-I carry the following items when riding in populated areas within range of roadside service.
+I carry the following items when riding in populated areas within range of
+roadside service.
 
 ### On my Person
 
@@ -13,20 +15,23 @@ I carry the following items when riding in populated areas within range of roads
 
 ### In a Backpack
 
-- 1-person first aid kit with medicine, boo-boo supplies, exam gloves and trauma pads
+- 1-person first aid kit with medicine, boo-boo supplies, exam gloves and
+  trauma pads
 - Mylar reflective emergency blanket
 
 ### On the Bike
 
-All of this packs in a fairly small OGIO tail bag with room to spare for personal items, water and snacks.
+All of this packs in a fairly small OGIO tail bag with room to spare for
+personal items, water and snacks.
 
 - T-handle wrench
-- Full set of Torx sockets through T55
+- Torx sockets: T15, T20, T25, T27, T55
 - Selection of Allen key sockets (specific to any installed aftermarket parts)
 - Metric sockets: 8mm, 10mm, 12mm, 13mm and 14mm
 - Metric wrenches: 8mm, 10mm, 12mm, 13mm and 14mm
 - Adjustable wrench
-- Oil filter wrench (F750Gs/F850GS oil filter cannot be tightened by hand due to tight clearance)
+- Oil filter wrench (F750Gs/F850GS oil filter cannot be tightened by hand due
+  to tight clearance)
 - Multi-bit screwdriver and appropriate bits
 - Tire plug kit
 - Air compressor
@@ -38,12 +43,13 @@ All of this packs in a fairly small OGIO tail bag with room to spare for persona
 - Threadlocker
 - Velcro
 - Zip ties
-- Duct tape (wrapped around an old plastic card for compactness)
+- Duct tape (wrapped around an old plastic card for compact)
 - Paracord
 
 ## Backcountry Kit
 
-Additional items carried when outside of range of roadside and standard ambulance service.
+Additional items carried when outside of range of roadside and standard
+ambulance service.
 
 ### On my Person
 
@@ -57,5 +63,7 @@ Additional items carried when outside of range of roadside and standard ambulanc
 
 ### On the Bike
 
-- Trauma first aid supplies (One kit for the whole group, in addition to each rider's individual kit)
-- Oversized zip ties ([last-resort emergency flat tire "fix"](https://www.youtube.com/watch?v=bhZLkQ_9PdQ))
+- Trauma first aid supplies (One kit for the whole group, in addition to each
+  rider's individual kit)
+- Oversized zip ties ([last-resort emergency flat tire
+  "fix"](https://www.youtube.com/watch?v=bhZLkQ_9PdQ))

@@ -36,10 +36,15 @@ Aftermarket footpegs can provide better grip and comfort when riding off-road.
 
 ## GPS
 
-BMW Navigator GPS units (made by Garmin) mount into the OEM GPS mount and integrate with the bike. The GPS will automatically turn on and off with the bike's ignition system and can be controlled with the menu navigation controls on the left handlebar.
+BMW Navigator GPS units (made by Garmin) mount into the OEM GPS mount and
+integrate with the bike. The GPS will automatically turn on and off with the
+bike's ignition system and can be controlled with the menu navigation controls
+on the left handlebar.
 
-[A phone mount adapter for the OEM GPS mount is available](https://www.aliexpress.com/item/32963526981.html).
-Note that phones with image stabilized cameras can be damaged by vibration when mounted to a motorcycle!
+[A phone mount adapter for the OEM GPS mount is
+available](https://www.aliexpress.com/item/32963526981.html). Note that phones
+with image stabilized cameras can be damaged by vibration when mounted to a
+motorcycle!
 
 ## Handguards
 
@@ -47,19 +52,19 @@ Handguards provide wind deflection for road riding and protect the rider's
 hands when riding off-road.
 
 - [Barkbusters Variable Protection
-  System](https://barkbusters.net/products/vps/) Note: The metal guard
-  interferes with the TFT display at certain angles. In a crash or
+System](https://barkbusters.net/products/vps/) Note: The metal guard
+interferes with the TFT display at certain angles. In a crash or
 tip-over, there is a risk that the guard could rotate and impact the TFT
 display. Always test the lock-to-lock steering range after installing
 the handguards or after a hard knock or drop.
 - The F850GSA comes equipped with handguards which are suitable for wind
-  deflection and minor obstacles when riding off-road, but are made of plastic
+deflection and minor obstacles when riding off-road, but are made of plastic
 instead of metal and not suitable for hard knocks.
 
 ## Headlight Guard
 
 A headlight guard prevents a rock from smashing your expensive LED headlight (a
-real risk when following other vehicles off-road)
+    real risk when following other vehicles off-road)
 
 - [Puig Headlight Protector](https://puig.tv/en/tuning-motos/headlight-protector/headlight-protector?bike=23755)
 - [AltRider Stainless Steel Mesh Headlight Guard](https://www.altrider.com/altrider-stainless-steel-mesh-headlight-guard-for-the-bmw-f-850-750-gs/pid/2747/cid/2)
@@ -112,8 +117,8 @@ Various systems are available:
 - [Mosko Moto](https://moskomoto.com/collections/motorcycle-luggage)
 - [Wolfman](https://wolfmanluggage.com/)
 
-Note that you will need a rack or heatshield to hang a bag over the exhaust side
-of the bike to prevent the bag from melting.
+Note that you will need a rack or heatshield to hang a bag over the exhaust
+side of the bike to prevent the bag from melting.
 
 ### Improvised Luggage
 
@@ -158,7 +163,7 @@ face.
 [MADSTAD](https://madstad.com/collections/bmw/products/bmw-f750-850gs-2018) has
 different sizes of windshield available for a range of rider heights. Note that
 the side deflectors use the same factory bolt holes as used by a headlight
-guard. The optional side deflectors are therefore not compatbile with the
+guard. The optional side deflectors are therefore not compatible with the
 F850GSA or an aftermarket headlight guard. Also note that the windshield may
 interfere with the rear view mirrors at some heights and angles, so always test
 the lock-to-lock steering range after adjusting the windshield.

@@ -13,7 +13,7 @@ tire pressure.
 The stock brake pedal is positioned too low to be easily reached from a
 standing position, as one would do when riding off-road.
 
-It is not recommened to attempt to adjust the brake pedal to compensate. There
+It is not recommended to attempt to adjust the brake pedal to compensate. There
 is very little adjustable clearance, and a setting which allows the tire to
 spin freely on the center stand will cause the brakes to rub, overheat and lock
 up while riding. I have personally locked up my own brake after attempting to
@@ -58,7 +58,7 @@ Sena device connectivity.
 It is possible for the battery terminals to interfere with the under-seat lock
 mechanism, which can make it difficult to remove the seat.
 
-Reccommended actions:
+Recommended actions:
 
 - Whenever installing a new battery, make sure all cables are tucked away from
 the lock mechanism.
