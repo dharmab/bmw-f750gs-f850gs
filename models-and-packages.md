@@ -25,7 +25,9 @@ Premium package due to high demand for the optional features.
 ### F750GS
 
 - A different camshaft, intake and engine map are used from the F850GS. This
-  lowers power to 77hp/61ft-lb. This accomodates a governer to further reduce
+  lowers power to 77hp/61ft-lb. 
+  - Recommended fuel octane is 91 RON/87 AKI (Regular) 
+  - This also accomodates a governer to further reduce
 power to comply with European A2 license restrictions, making the F750GS
 suitable for less experienced European riders.
 - Cast aluminum alloy wheels are equipped with a 19-inch front wheel diameter.
@@ -41,6 +43,7 @@ and durability.
 ### F850GS
 
 - The F850GS outputs 90hp/63ft-lb.
+  - Recommended fuel octane is 95 RON/90 AKI (Premium) 
 - Spoked wheels are used with a 21-inch front wheel diameter. This improves
   off-road obstacle clearance and durability and provides a wider range of
 off-road tire choices.
