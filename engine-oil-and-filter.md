@@ -1,17 +1,14 @@
 # Engine Oil and Filter change
 
 The 853cc engine has two sumps, a lower sump and an upper sump nestled above
-the lower sump. The rider's manual states that an engine oil and filter change
-requires 3.0 liters of oil, which corresponds to the capacity of the lower
-sump.
+the lower sump.
 
 ![sump diagram](assets/oil-sump.gif)
 
 ## Consumables
 
-- SAE 5W-40 API SL/JASO M2 engine oil. OEM is ADVANTEC Ultimate.
-    - 3.0 liters for lower sump and filter
-    - 3.5-3.75 liters for lower sump, upper sump and filter
+- SAE 5W-40 API SL/JASO M2 engine oil. OEM is ADVANTEC Ultimate. Documented
+  capacity of the engine is 3.0 liters.
 - Oil Filter (Part #11427721779)
 - Crush washer (Part #07119963252)
 
@@ -60,6 +57,8 @@ The difference between the MIN and MAX markings on the dipstick is 0.5 liters.
 over-tighten the filter, or the seal will be damaged and cause an oil leak. The
 ADVRider forums report this mistake being made by professional BMW techs at BMW
 dealerships! Tighten the filter no tighter than you would tighten by hand.
-1. Reinstall skid plate (if installed)
+1. Fill with oil. Recommended: Initially fill with only 2.5 liters to avoid
+   overfilling, and add the remaining as needed after checking the level.
 1. Bring the engine to operating temperature and check the oil level. Add or
    remove oil as needed to bring oil level within spec.
+1. Reinstall skid plate (if present)
