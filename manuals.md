@@ -13,5 +13,5 @@ website.](https://www.bmw-motorrad.com/en/service/manuals/rider-manual.html)
 
 The Service Manual covers maintenance and repair of the motorcycle.
 
-BMW has made the Service Manual available to BMW dealerships but has not made
-the Service Manual available to consumers.
+The Service Manual is available through the parts desk at a BMW dealership
+as a DVD for about $120.
