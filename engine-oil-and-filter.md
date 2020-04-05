@@ -7,8 +7,8 @@ the lower sump.
 
 ## Consumables
 
-- SAE 5W-40 API SL/JASO M2 engine oil. OEM is ADVANTEC Ultimate. Documented
-  capacity of the engine is 3.0 liters.
+- SAE 5W-40 API SL/JASO M2 engine oil. The OEM oil is BMW ADVANTEC Ultimate. 
+ The oil capacity of the engine is about 3.0 liters.
 - Oil Filter (Part #11427721779)
 - Crush washer (Part #07119963252)
 
@@ -19,18 +19,18 @@ change.](https://www.bobsbmw.com/store/product/10-off-complete-oil-change-kit-fo
 ## Tools
 
 - T-50 Torx socket
-- 5mm hex socket or Allen key (Optional, only used for upper sump)
+- 5mm hex socket or Allen key
 - Oil filter wrench
 
 ## Checking Oil Level
 
-1. Bring engine to operating temperature
+1. Raise bike on center stand
 1. Allow engine to idle until cooling fan starts, then wait 1 minute and turn
    off engine
-1. Raise bike on center stand
 1. Wait 1 minute
 1. Remove and wipe oil dipstick
-1. Insert oil dipstick without screwing it in
+1. Insert oil dipstick without screwing it in, rotating it once (opposite the
+   threads) to coat both sides of the stick
 1. Remove oil dipstick and read oil level
 
 The difference between the MIN and MAX markings on the dipstick is 0.5 liters.
@@ -46,10 +46,10 @@ The difference between the MIN and MAX markings on the dipstick is 0.5 liters.
    away from the exhaust and brake pedal
 1. Remove oil filter
 1. Wait for oil to stop draining from lower sump
-1. Optional: Use 5mm hex socket or Allen key to remove drain bolt for upper
+1. Use 5mm hex socket or Allen key to remove drain bolt for upper
    sump (refer to part labeled 11 in diagram)
 1. Wait for oil to stop draining from upper sump
-1. Replace 5mm drain bolt (if removed) and T-50 drain bolt, using new crush
+1. Replace 5mm drain bolt and T-50 drain bolt, using new crush
    washer
 1. Use some of the old oil to lubricate the seal on the new oil filter.
 1. Install new filter _carefully_. The location of the filter will require
@@ -57,7 +57,7 @@ The difference between the MIN and MAX markings on the dipstick is 0.5 liters.
 over-tighten the filter, or the seal will be damaged and cause an oil leak. The
 ADVRider forums report this mistake being made by professional BMW techs at BMW
 dealerships! Tighten the filter no tighter than you would tighten by hand.
-1. Fill with oil. Recommended: Initially fill with only 2.5 liters to avoid
+1. Fill with oil. Recommended: Initially fill with only 2.7 liters to avoid
    overfilling, and add the remaining as needed after checking the level.
 1. Bring the engine to operating temperature and check the oil level. Add or
    remove oil as needed to bring oil level within spec.
