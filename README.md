@@ -26,6 +26,6 @@ experienced and shorter riders.
    - [Engine Oil and Filter Change](engine-oil-and-filter.md)
    - [Keyless Ignition Battery Change](key-battery.md)
    - [Maintenance Schedule](maintenance-schedule.md)
-   - [Toolkit](toolkit.md)
 - Customization
+   - [Kit](kit.md)
    - [Accessories](accessories.md)
