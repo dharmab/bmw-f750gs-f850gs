@@ -15,9 +15,33 @@ emergency services.
 - Credit cards
 - Cell phone
 
-### In a Backpack
+### On the Bike
 
-- Mylar reflective emergency blanket (emergency shade/shelter)
+All of this packs in a fairly small OGIO tail bag with room to spare for
+personal items, water and snacks.
+
+- Toolkit
+  - T-handle wrench
+  - Torx sockets: T15, T20, T25, T27, T55
+  - Selection of Allen key sockets (specific to any installed aftermarket parts)
+  - Metric sockets: 8mm, 10mm, 12mm, 13mm and 14mm
+  - Metric wrenches: 8mm, 10mm, 12mm, 13mm and 14mm
+  - Adjustable wrench
+  - Oil filter wrench (F750Gs/F850GS oil filter cannot be tightened by hand due
+    to tight clearance)
+  - Multi-bit screwdriver and appropriate bits
+  - Tire plug kit (plugs, tools, rubber cement)
+  - Air compressor
+  - Tire pressure gauge
+  - Jumper battery and cables
+  - Headlamp
+  - JB weld
+  - Superglue
+  - Threadlocker
+  - Velcro
+  - Zip ties
+  - Duct tape (wrapped around an old plastic card for compactness)
+  - Paracord
 - 1-person first aid kit:
   - **Trauma pads**
   - **QuikClot**
@@ -41,33 +65,7 @@ emergency services.
     Ibuprofen|Motrin|Aches, pain, inflammation, fever
     Bismuth Subsalicylate|Pepto-Bismol|Diarrhea, nausea, upset stomach
     Anitbiotic ointment (without Neomycin)|Polysporin|Minor wounds
-
-### On the Bike
-
-All of this packs in a fairly small OGIO tail bag with room to spare for
-personal items, water and snacks.
-
-- T-handle wrench
-- Torx sockets: T15, T20, T25, T27, T55
-- Selection of Allen key sockets (specific to any installed aftermarket parts)
-- Metric sockets: 8mm, 10mm, 12mm, 13mm and 14mm
-- Metric wrenches: 8mm, 10mm, 12mm, 13mm and 14mm
-- Adjustable wrench
-- Oil filter wrench (F750Gs/F850GS oil filter cannot be tightened by hand due
-  to tight clearance)
-- Multi-bit screwdriver and appropriate bits
-- Tire plug kit (plugs, tools, rubber cement)
-- Air compressor
-- Tire pressure gauge
-- Jumper battery and cables
-- Headlamp
-- JB weld
-- Superglue
-- Threadlocker
-- Velcro
-- Zip ties
-- Duct tape (wrapped around an old plastic card for compactness)
-- Paracord
+- Mylar reflective emergency blanket (emergency shade/shelter)
 
 ## Backcountry Kit
 
@@ -78,14 +76,9 @@ emergency services.
 
 - GPS rescue beacon
 
-### In a Backpack
-
 - Paper map
 - Compass
 - Wilderness first aid manual
-
-### On the Bike
-
 - Inelastic synthetic winch cable ([for recovering stuck
   bikes](https://youtu.be/kYf2iUY4jZ8))
 - Oversized zip ties ([last-resort emergency flat tire
