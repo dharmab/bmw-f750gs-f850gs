@@ -76,6 +76,8 @@ emergency services.
 
 - GPS rescue beacon
 
+### On the Bike
+
 - Paper map
 - Compass
 - Wilderness first aid manual
