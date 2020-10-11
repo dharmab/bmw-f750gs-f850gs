@@ -16,7 +16,7 @@ If the tension needs to be adjusted, loosen the axle nut with a 36mm wrench,
 then adjust the adjusters on both sides of the axle. Tighten the axle nut to
 100Nm with thread locker.
 
-# Chain and Sprocket Replacement
+## Chain and Sprocket Replacement
 
 The factory sprockets have 17 teeth in the front and 44 in the rear. The
 factory chain has 122 links with a pitch of 525.
@@ -25,7 +25,7 @@ Note that the bike should be in first gear during the replacement procedure.
 The procedure requires disconnecting the shifter linkage, so changing gears
 mid-procedure may be difficult.
 
-## Remove Rear Wheel
+### Remove Rear Wheel
 
 Support the bike on a stand so that the rear wheel is in the air. It is
 recommended to use a scissor stand and rear stand instead of the center stand
@@ -37,13 +37,13 @@ Remove the rear axle with a 36mm wrench. Loosen the chain adjusters and push
 the adjusters fully forward to slacken the chain. Remove the chain from the
 rear sprocket and remove the wheel.
 
-## Remove Chain Guard
+### Remove Chain Guard
 
 Remove the rivet and screws securing the chain guard to the swingarm.
 
 ![](assets/chain-cover.png)
 
-## Remove Left Rearset
+### Remove Left Rearset
 
 Disconnect the quickshifter (if installed) and unclip the top end of the
 shifter linkage. 
@@ -57,7 +57,7 @@ front sprocket.
 
 ![](assets/left-rearset-2.png)
 
-## Replace Front Sprocket
+### Replace Front Sprocket
 
 Remove the front sprocket from the output shaft along with the chain.
 
@@ -72,7 +72,7 @@ Apply high-temperature anti-seize to the transmission output shaft.
 Thread the new chain over the new front sprocket and install the new front
 sprocket on the output shaft.
 
-## Replace Rear Sprocket
+### Replace Rear Sprocket
 
 Remove the rear sprocket carrier assembly and the spacer bushing. 
 
@@ -91,7 +91,7 @@ grease.
 
 Reinstall the rear sprocket carrier assembly and spacer bushing.
 
-## Reinstallation
+### Reinstallation
 
 Reinstall the chain guard. Use thread locker on the screws.
 
