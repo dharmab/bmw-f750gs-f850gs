@@ -11,7 +11,7 @@
 
 ## Every 10000km
 
-- Change engine oil and filter
+- [Change engine oil and filter](engine-oil-and-filter.md)
 - Replace spark plugs
 - Check air filter, clean or replace as necessary
 
@@ -28,7 +28,7 @@
 
 ## At least once per year
 
-- Change engine oil and filter
+- [Change engine oil and filter](engine-oil-and-filter.md)
 - Check air filter, clean or replace as necessary (if ridden off-road)
 - Change brake fluid (first year only)
 
@@ -45,3 +45,4 @@
 - Coolant
 - Tires
 - Suspension components
+- [Chain and sprocket](chain-and-sprocket.md)

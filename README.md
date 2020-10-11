@@ -23,10 +23,11 @@ experienced and shorter riders.
    - [Rider and Service Manuals](manuals.md)
    - [Known Issues](known-issues.md)
 - Maintenance
+   - [Maintenance Schedule](maintenance-schedule.md)
    - [Tire Pressure](tire-pressure.md)
    - [Engine Oil and Filter Change](engine-oil-and-filter.md)
+   - [Chain and Sprocket](chain-and-sprocket.md)
    - [Keyless Ignition Battery Change](key-battery.md)
-   - [Maintenance Schedule](maintenance-schedule.md)
 - Customization
    - [Kit](kit.md)
    - [Accessories](accessories.md)
