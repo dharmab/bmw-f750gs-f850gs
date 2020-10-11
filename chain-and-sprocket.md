@@ -21,6 +21,9 @@ then adjust the adjusters on both sides of the axle. Tighten the axle nut to
 The factory sprockets have 17 teeth in the front and 44 in the rear. The
 factory chain has 122 links with a pitch of 525.
 
+You will also need a replacement bolt for the swingarm pivot. The part
+number is `33 35 8389087`.
+
 Note that the bike should be in first gear during the replacement procedure.
 The procedure requires disconnecting the shifter linkage, so changing gears
 mid-procedure may be difficult.
