@@ -72,5 +72,7 @@ or rattles when the front wheel goes over bumps.
 
 Recommended actions:
 
+- At the break-in service, specifically ask for the steering head adjustment
+to be checked.
 - If the front end clunks, [adjust the steering 
 head](https://www.youtube.com/watch?v=M5a4QpG8KR0).
