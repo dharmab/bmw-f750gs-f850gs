@@ -63,3 +63,14 @@ Recommended actions:
 - Whenever installing a new battery, make sure all cables are tucked away from
 the lock mechanism.
 - Test the lock with the seat off before reinstalling the seat.
+
+## Steering Head Adjustment
+
+The steering head needs to be adjusted at the break-in service. If the steering
+head is not adjusted, it may result in a loose steering head, causing clunks
+or rattles when the front wheel goes over bumps.
+
+Recommended actions:
+
+- If the front end clunks, [adjust the steering 
+head](https://www.youtube.com/watch?v=M5a4QpG8KR0).
