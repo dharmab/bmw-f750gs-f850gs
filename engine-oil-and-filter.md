@@ -14,13 +14,13 @@ the lower sump.
 
 [Bob's BMW offers a kit with all required consumables for a lower sump and
 filter
-change.](https://www.bobsbmw.com/store/product/10-off-complete-oil-change-kit-for-f750gs-f850gs--adventure)
+change.](https://www.bobsbmw.com/store/product/10-off-complete-oil-change-kit-for-f750gs-f850gs--adv-f900rxr)
 
 ## Tools
 
 - T-50 Torx socket
 - 5mm hex socket or Allen key
-- Oil filter wrench
+- [Oil filter wrench](https://www.bobsbmw.com/store/product/bobs-oil-filter-wrench-k-models-most-oilheads-water-cooled-boxers-f750850gs)
 
 ## Checking Oil Level
 
