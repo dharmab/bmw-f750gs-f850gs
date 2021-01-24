@@ -9,8 +9,8 @@ axle.
 - F750GS: 30-40mm 
 - F850GS: 40-50mm
 
-(When correctly set, the top of the chain will hit the swingarm at maximum
-deflection.)
+(When correctly set, the top of the chain will hit the swingarm guard when
+deflected upwards.)
 
 If the tension needs to be adjusted, loosen the axle nut with a 36mm wrench,
 then adjust the adjusters on both sides of the axle. Tighten the axle nut to
