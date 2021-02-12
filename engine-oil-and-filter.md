@@ -12,9 +12,11 @@ the lower sump.
 - Oil Filter (Part #11427721779)
 - Crush washer (Part #07119963252)
 
-[Bob's BMW offers a kit with all required consumables for a lower sump and
-filter
-change.](https://www.bobsbmw.com/store/product/10-off-complete-oil-change-kit-for-f750gs-f850gs--adv-f900rxr)
+A kit wil all required consumables is available:
+
+- [ADVDepot](https://advdepot.com/products/bmw-oil-change-kit-f750gs-f850gs)
+- [Bob's BMW](https://www.bobsbmw.com/store/product/10-off-complete-oil-change-kit-for-f750gs-f850gs--adv-f900rxr)
+- [Sierrea BMW](https://www.shopbmwmotorcycle.com/products/bmw-f850gs-f750gs-oil-change-kit)
 
 ## Tools
 
