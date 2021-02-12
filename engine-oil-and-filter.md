@@ -16,7 +16,7 @@ A kit wil all required consumables is available:
 
 - [ADVDepot](https://advdepot.com/products/bmw-oil-change-kit-f750gs-f850gs)
 - [Bob's BMW](https://www.bobsbmw.com/store/product/10-off-complete-oil-change-kit-for-f750gs-f850gs--adv-f900rxr)
-- [Sierrea BMW](https://www.shopbmwmotorcycle.com/products/bmw-f850gs-f750gs-oil-change-kit)
+- [Sierra BMW](https://www.shopbmwmotorcycle.com/products/bmw-f850gs-f750gs-oil-change-kit)
 
 ## Tools
 
