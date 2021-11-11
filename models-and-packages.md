@@ -12,13 +12,18 @@ There are three models of the F750GS/F850GS:
 All versions of the bike share the same frame and the same 853cc engine.  Many
 of the parts are the same across the models as well.
 
-In addition, there are two option packages available in the US:
+In addition, there were two option packages available in the US as of 2019:
 
 - Select
 - Premium
 
 As of 2019, virtually all bikes imported into the US were equipped with the
 Premium package due to high demand for the optional features.
+
+## Changes by Model Year
+
+- 2021: Update for Euro5 emissions compliance. Exhaust headers are slightly
+  larger, which impacts the design of some aftermarket skid plates.
 
 ## Models
 
@@ -27,14 +32,11 @@ Premium package due to high demand for the optional features.
 - A different camshaft, intake and engine map are used from the F850GS. This
   lowers power to 77hp/61ft-lb. 
     - Recommended fuel octane is 91 RON/87 AKI (Regular) 
-    - This also accommodates a governor to further reduce power to comply with
-      European A2 license restrictions, making the F750GS suitable for less
-experienced European riders.
 - Cast aluminum alloy wheels are equipped with a 19-inch front wheel diameter.
   This improves on-road handling at the expense of off-road obstacle clearance
 and durability.
-- The front suspension is a conventional (right-side up) 41mm fork with 5.9 inches
-  of travel.
+- The front suspension is a conventional (right-side up) 41mm fork with 5.9
+  inches of travel.
 - The rear suspension is a conventional spring strut with 6.9 inches of travel.
 - Due to the lower suspension, seat height is 0.2 inches lower on the F750GS.
 - Total ground clearance is 7.5 inches.

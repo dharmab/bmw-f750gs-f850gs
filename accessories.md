@@ -5,9 +5,9 @@
 A dual-height brake pedal raises the pedal height, making it easier to use the
 rear brake while standing.
 
+- The F850GSA OEM brake pedal is dual-height, and can be installed on a
+  non-Adventure F750GS or F850GS
 - [AltRider DualControl Brake System](https://www.altrider.com/altrider-dualcontrol-brake-system-for-the-bmw-f-850-750-gs/pid/2733)
-- The F850GSA OEM brake pedal is dual-height, and could possibly be adapted to
-the F750GS and F850GS
 
 ## Center Stand
 
@@ -99,6 +99,7 @@ top-loading. This is slightly less convenient to pack and unpack.
 
 Various aftermarket luggage systems are available:
 
+- [Hepco-Becker](https://www.advmotorrad.com/Hepco-Becker-Side-Carrier-Rack-F850GS-F750GS-Adventure)
 - [Jesse Luggage](https://www.jesseluggage.com/product-category/bmw/bmw-f750gs-f850gs/)
 - [SW-MOTECH](https://sw-motech.com/en/products/luggage/side+cases/)
 - [TouraTech](https://touratech-usa.com/Motorcycle-Panniers-and-Luggage?a=907)
@@ -125,11 +126,10 @@ side of the bike to prevent the bag from melting.
 [ROK Straps](http://rokstrapamerica.com/) can be used to strap duffel bags,
 drypacks, backpacks and other generic luggage to the tail rack. This can be an
 excellent budget option- I find that two ROK straps and a [Sea to
-Summit](https://seatosummitusa.com/) or [Skog Å
-Kust](https://www.skogakust.com/) drypack make an effective luggage option for
-well under $80. For a truly budget option (under $35), buy a very inexpensive 
-drypack from Amazon and line it with a heavy duty garbage bag to compensate for
-poor waterproofing.
+Summit](https://seatosummitusa.com) drypack make an effective luggage option
+for well under $80. For a truly budget option (under $35), buy a very
+inexpensive drypack from Amazon and line it with a heavy duty garbage bag to
+compensate for poor waterproofing.
 
 ## Sidestand/Kickstand Foot
 
@@ -149,7 +149,9 @@ sidestand, which prevents the bike from sinking into soft ground when parked.
 ## Skid Plate
 
 A skid plate protects the underside of the bike from rocks and debris, and can
-be used to slide the bike over obstacles such as tree trunks.
+be used to slide the bike over obstacles such as tree trunks. Note that 2021
+and newer bikes have larger exhaust headers, so plates made for earlier model
+years may have fitment issues.
 
 - [Black Dog Cycle Works Ultimate Skid Plate](https://blackdogcw.com/bdcw-ultimate-skid-plate-bmw-f850gsa-f850gs-f750gs/)
 
