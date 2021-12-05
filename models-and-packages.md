@@ -23,7 +23,9 @@ Premium package due to high demand for the optional features.
 ## Changes by Model Year
 
 - 2021: Update for Euro5 emissions compliance. Exhaust headers are slightly
-  larger, which impacts the design of some aftermarket skid plates.
+  larger, which impacts the design of some aftermarket skid plates. Engine
+  cold start cycle tweaked so that bike now idles high after cold start to
+  heat the catalytic converter.
 
 ## Models
 
