@@ -12,10 +12,10 @@ the lower sump.
 - Oil Filter (Part #11427721779)
 - Crush washer (Part #07119963252)
 
-A kit wil all required consumables is available:
+A kit with all required consumables is available:
 
 - [ADVDepot](https://advdepot.com/products/bmw-oil-change-kit-f750gs-f850gs)
-- [Bob's BMW](https://www.bobsbmw.com/store/product/10-off-complete-oil-change-kit-for-f750gs-f850gs--adv-f900rxr)
+- [Bob's BMW](https://www.bobsbmw.com/store/product/complete-oil-change-kit-for-f750gs-f850gs--adv-f900rxr)
 - [Sierra BMW](https://www.shopbmwmotorcycle.com/products/bmw-f850gs-f750gs-oil-change-kit)
 
 ## Tools
@@ -53,7 +53,7 @@ The difference between the MIN and MAX markings on the dipstick is 0.5 liters.
 1. Wait for oil to stop draining from upper sump
 1. Replace 5mm drain bolt and T-50 drain bolt, using new crush
    washer
-1. Use some of the old oil to lubricate the seal on the new oil filter.
+1. Use some oil to lubricate the seal on the new oil filter.
 1. Install new filter _carefully_. The location of the filter will require
    installation using an oil filter wrench. However, care must be taken not to
 over-tighten the filter, or the seal will be damaged and cause an oil leak. The
