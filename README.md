@@ -32,3 +32,7 @@ experienced and shorter riders.
 - Customization
    - [Kit](kit.md)
    - [Accessories](accessories.md)
+
+## Contact
+
+I have omitted some advanced procedures such as valve adjustment and fork oil service. They differ significantly between the F750GS and F850GS and transcribing them would be tediuous and error prone. If you need technical info on these services, contact me for information. You can find my contact info [on my website](https://dharmab.com).
