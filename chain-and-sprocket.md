@@ -30,15 +30,7 @@ mid-procedure may be difficult.
 
 ### Remove Rear Wheel
 
-Support the bike on a stand so that the rear wheel is in the air. It is
-recommended to use a scissor stand and rear stand instead of the center stand
-to provide additional stability while the wheel is removed.
-
-Decompress the rear brake caliper by pushing it into the brake rotor. 
-
-Remove the rear axle with a 36mm wrench. Loosen the chain adjusters and push
-the adjusters fully forward to slacken the chain. Remove the chain from the
-rear sprocket and remove the wheel.
+See [rear wheel removal instructions](wheels.md#rear-wheel) to remove the rear wheel and the rear sprocket carrier.
 
 ### Remove Chain Guard
 
@@ -77,7 +69,7 @@ sprocket on the output shaft.
 
 ### Replace Rear Sprocket
 
-Remove the rear sprocket carrier assembly and the spacer bushing. 
+Remove the rear sprocket carrier assembly and the spacer bushing from the rear wheel. 
 
 ![](assets/rear-sprocket.png)
 
@@ -96,11 +88,7 @@ Reinstall the rear sprocket carrier assembly and spacer bushing.
 
 ### Reinstallation
 
-Reinstall the chain guard. Use thread locker on the screws.
-
-Lubricate the rear axle with a high-temperature lithium grease. Reinstall the
-rear wheel loosely. Push the wheel fully forward and loop the chain over the
-sprocket.
+[Reinstall the rear wheel loosely.](wheels.md#rear-wheel)
 
 Reinstall the bolt for the front sprocket, making care that the washer’s curve
 faces outward. Torque to 50 Nm.
@@ -112,5 +100,7 @@ bolt and the new bolt torqued to 200 Nm. Torque the M8 screws to 28 Nm and the
 M10 screws to 38Nm.
 
 Reconnect the shifter linkage and quickshifter connector.
+
+Reinstall the chain guard. Use thread locker on the screws.
 
 Lower the bike onto the ground and adjust the chain tension.

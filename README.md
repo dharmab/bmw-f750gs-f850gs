@@ -26,6 +26,7 @@ experienced and shorter riders.
    - [Maintenance Schedule](maintenance-schedule.md)
    - [Tire Pressure](tire-pressure.md)
    - [Engine Oil and Filter Change](engine-oil-and-filter.md)
+   - [Wheels](wheels.md)
    - [Chain and Sprocket](chain-and-sprocket.md)
    - [Keyless Ignition Battery Change](key-battery.md)
 - Customization
