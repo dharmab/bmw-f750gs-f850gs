@@ -10,7 +10,7 @@ Raise the front wheel in the air.
 
 Pull the axle free from the right side of the bike using the appropriate hex driver.
 
-Remove the wheel/
+Remove the wheel.
 
 Remove the spacer from the left side of the wheel.
 
@@ -46,15 +46,19 @@ Inspect the dampening element in the wheel for damage or deformation. Replace if
 
 Clean the rear brake caliper's guide surfaces and lubricate them with anti-seize. Position the rear brake caliper into the guide.
 
+![caliper lurbrication](assets/rear-wheel-caliper.png)
+
 If the dampening element was removed, lubricate with sillicone spray and reinstall.
 
 Clean the spacers and rear sprocket carrier seals. Lubricate them with a high temperature lithium grease.
+
+![spacer lubrication](assets/rear-wheel-bushing.png)
 
 Install the bushings and rear sprocket carrier on the wheel.
 
 Clean the axle and lubricate it with a high-temperature lithium grease.
 
-Install the rear wheel into the swingarm and rear brake caliper. Take care not to damage the wheel speed sensor ring. Insert the rear axle and loosely reinstall the nut and washer.
+Install the rear wheel into the swingarm and rear brake caliper. Take care not to damage the wheel speed sensor or sensor ring. Insert the rear axle and loosely reinstall the nut and washer.
 
 Push the wheel fully forward and loop the chain over the sprocket.
 
