@@ -52,7 +52,7 @@ If the dampening element was removed, lubricate with sillicone spray and reinsta
 
 Clean the spacers and rear sprocket carrier seals. Lubricate them with a high temperature lithium grease.
 
-![spacer lubrication](assets/rear-wheel-bushing.png)
+![spacer lubrication](assets/rear-wheel-bushings.png)
 
 Install the bushings and rear sprocket carrier on the wheel.
 
