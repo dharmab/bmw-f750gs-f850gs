@@ -2,15 +2,23 @@
 
 ### Removal
 
+Push the brake calipers into the rotors to force the pistons back.
+
+Unclip the ABS sensor cable on the left caliper.
+
+Remove the two Torx bolts securing each brake caliper to the fork.
+
+Hang the brake calipers out of the way.
+
 Loosen the four Torx bolts that clamp the front axle.
 
-emove the internal hex screw from the left side of the front axle. You may need to hold the opposite end of the axle in place.
+Remove the internal hex screw from the left side of the front axle. You may need to hold the opposite end of the axle in place.
 
 Raise the front wheel in the air.
 
 Pull the axle free from the right side of the bike using the appropriate hex driver.
 
-Remove the wheel.
+Remove the wheel, taking care not to damage the wheel speed sensor ring.
 
 Remove the spacer from the left side of the wheel.
 
@@ -21,6 +29,8 @@ Clean the spacer and lubricate it with a high-temperature lithium grease. Instal
 Install the wheel into the forks and insert the axle. Install the left side axle screw and tighten to 50 Nm.
 
 Gradually tighten the right side clamp bolts to 19 Nm in a series of three passes. Gradually tighten the left side clamp bolts to 19 Nm in a series of three passes.
+
+Reinstall the brake calipers and tighten to 38Nm.
 
 ## Rear Wheel
 
