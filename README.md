@@ -30,6 +30,7 @@ experienced and shorter riders.
    - [Wheels](wheels.md)
    - [Chain and Sprocket](chain-and-sprocket.md)
    - [Keyless Ignition Battery Change](key-battery.md)
+   - [Valve Clearance Check & Adjustment](valve-clearances.md)
 - Customization
    - [Kit](kit.md)
    - [Accessories](accessories.md)
