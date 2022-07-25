@@ -12,20 +12,14 @@ There are three models of the F750GS/F850GS:
 All versions of the bike share the same frame and the same 853cc engine.  Many
 of the parts are the same across the models as well.
 
-In addition, there were two option packages available in the US as of 2019:
-
-- Select
-- Premium
-
-As of 2019, virtually all bikes imported into the US were equipped with the
-Premium package due to high demand for the optional features.
-
 ## Changes by Model Year
 
 - 2021: Update for Euro5 emissions compliance. Exhaust headers are slightly
   larger, which impacts the design of some aftermarket skid plates. Engine
   cold start cycle tweaked so that bike now idles high after cold start to
   heat the catalytic converter.
+- 2023: Automatic turn signal cancelation can now be toggled in menu. Some
+  models sold equipped with M Endurance chains.
 
 ## Models
 
@@ -42,7 +36,7 @@ and durability.
 - The rear suspension is a conventional spring strut with 6.9 inches of travel.
 - Due to the lower suspension, seat height is 0.2 inches lower on the F750GS.
 - Total ground clearance is 7.5 inches.
-- Wet weight is 493lbs.
+- Wet weight is 493lbs (MY2019).
 
 ### F850GS
 
@@ -56,7 +50,7 @@ off-road tire choices.
 - The rear suspension is a progressive-damping spring strut with 8.6 inches of
   travel.
 - Total ground clearance is 9.8 inches.
-- Wet weight is 504lbs.
+- Wet weight is 504lbs (MY2019).
 
 ### F850GS Adventure
 
@@ -71,29 +65,3 @@ The F850GSA includes all features of the F850GS, plus the following:
 
 There are additional features on the Adventure, but the bike is not well
 documented online.
-
-## Packages
-
-### Select
-
-- Dynamic Traction Control (DTC), over the standard Automatic Stability Control
-  (ASC)
-- Lean-sensitive anti-lock braking system (aka cornering ABS), over the
-  standard ABS brakes
-- Quickshifter
-- Keyless ignition system
-- Center stand (exclusive with low suspension)
-- Heated grips
-- Tire pressure monitoring system (RDC, for _Reifendruckkontrolle_)
-- Cruise control
-- TFT display with Bluetooth connectivity
-- Garmin Navigator GPS mount
-
-### Premium
-
-All features from the Select package, plus:
-
-- Dynamic Electronic Suspension Adjustment (ESA) semi-active rear suspension
-- Dynamic and Enduro riding modes
-- Enduro Pro riding mode (F850GS and F850GSA only)
-- LED lighting
