@@ -43,7 +43,9 @@ Remove the bolt securing the front of the airbox.
 
 ![](assets/airbox-ventilation.png)
 
-Using the appropriate pliers, remove the [Oetiker](https://www.oetiker.com/) low profile clamp rings securing the airbox to the intake. I believe the part number for these pliers is Oetiker 14100030. They're really hard to find!
+Using the appropriate pliers, remove the [Oetiker](https://www.oetiker.com/) low profile clamp rings securing the airbox to the intake.
+The part number for these pliers is Oetiker 14100030. They're really expensive!
+Lisle 30500 is an acceptable substitude for DIY purposes.
 
 ![](assets/airbox-clamps.png)
 
