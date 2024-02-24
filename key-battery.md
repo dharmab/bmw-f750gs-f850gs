@@ -5,7 +5,7 @@
 The key fob for the keyless ignition uses a CR2032 lithium button cell battery.
 The motorcycle will display a message when this battery needs to be replaced.
 In my experience, the factory battery needed replacement after 1 year, and the
-replacment I bought off Amazon hit 50% after 4 years.
+Energizer I replaced mine with hit 50% after 4 years.
 
 To replace the battery, flip the physical key open and then place your finger
 in the void left by the key. Pry up on the battery cover until it pops open.
