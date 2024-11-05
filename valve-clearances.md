@@ -3,9 +3,7 @@
 This guide assumes the reader is familiar with valve adjustment on a motorcycle.
 If you haven't done a valve adjustment before, go practice on a dirt bike!
 
-## Special Tools
-
-You will need a coil puller tool to remove the ignition coils without damaging them. You can find such a tool for about $10; search for "BMW coil removal tool"
+Some special tools are needed, so read the entire document and buy those tools before beginning work.
 
 ## Access
 
@@ -60,7 +58,8 @@ Disconnect the air temperature sensor.
 Remove the airbox.
 
 Disconnect the igniton coils.
-Remove the ignition coils from the cylinder head.
+
+Remove the ignition coils from the cylinder head. BMW recommends using a special tool (part number `83 30 2 153 002`) for this, but you can find a similar tool for around $10 byu searching for "BMW coil tool). In a pinch, you can wrap a a shoelace or paracord or something around the coil and gently, carefully pull it out.
 
 Remove the indicated bolts and rivets to loosen the air ducts and radiator.
 
