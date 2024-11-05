@@ -3,6 +3,10 @@
 This guide assumes the reader is familiar with valve adjustment on a motorcycle.
 If you haven't done a valve adjustment before, go practice on a dirt bike!
 
+## Special Tools
+
+You will need a coil puller tool to remove the ignition coils without damaging them. You can find such a tool for about $10; search for "BMW coil removal tool"
+
 ## Access
 
 Remove the front fender by removing the two screws and unclipping the spray guard and fender.
