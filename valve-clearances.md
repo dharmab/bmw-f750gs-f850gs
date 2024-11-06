@@ -59,7 +59,7 @@ Remove the airbox.
 
 Disconnect the igniton coils.
 
-Remove the ignition coils from the cylinder head. BMW recommends using a special tool (part number `83 30 2 153 002`) for this, but you can find a similar tool for around $10 byu searching for "BMW coil tool). In a pinch, you can wrap a a shoelace or paracord or something around the coil and gently, carefully pull it out.
+Remove the ignition coils from the cylinder head. BMW recommends using a special tool (part number `83 30 2 153 002`) for this, but you can find a similar tool for around $10 by searching for "BMW coil tool". In a pinch, you can wrap a a shoelace or paracord or something around the coil and gently, carefully pull it out.
 
 Remove the indicated bolts and rivets to loosen the air ducts and radiator.
 
