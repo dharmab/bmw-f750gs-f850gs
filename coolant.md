@@ -2,7 +2,7 @@
 
 _Note: If you live somewhere with a mild climate, you might not ever need to
 change your coolant. Talk to your local dealership and see what their local
-practice is, and use a coolant tested to check the condition of your coolant._
+practice is, and use a coolant tester to check the condition of your coolant._
 
 The official procedure for changing the coolant on the F750GS and F850Gs is quite involved. It includes removing the front fender and the right side fairing to allow clear access to the radiator and coolant resevoir bottle.
 
