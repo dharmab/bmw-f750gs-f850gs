@@ -51,11 +51,11 @@ The difference between the MIN and MAX markings on the dipstick is 0.5 liters.
 1. Use 5mm hex socket or Allen key to remove drain bolt for upper
    sump (refer to part labeled 11 in diagram)
 1. Wait for oil to stop draining from upper sump
-1. Replace 5mm drain bolt and T-50 drain bolt, using new crush
+1. Replace 5mm drain bolt (tighten to 10Nm) and T-50 drain bolt (tighten to 25Nm), using new crush
    washer
 1. Use some oil to lubricate the seal on the new oil filter.
 1. Install new filter _carefully_. The location of the filter will require
-   installation using an oil filter wrench. However, care must be taken not to
+   installation using an oil filter wrench (tighten to 11Nm). However, care must be taken not to
 over-tighten the filter, or the seal will be damaged and cause an oil leak. The
 ADVRider forums report this mistake being made by professional BMW techs at BMW
 dealerships! Tighten the filter no tighter than you would tighten by hand.
