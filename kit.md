@@ -133,7 +133,7 @@ campground or in the backcountry.
   - Body towel
 - Electronics
   - USB battery bank
-  - Ebook reader
-  - Bluetooth speaker
+  - Something I can read a book on
+  - Bluetooth speaker or earbuds
   - LED headlamp
   - LED lantern
