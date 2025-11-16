@@ -15,7 +15,7 @@ the lower sump.
 A kit with all required consumables is available:
 
 - [ADVDepot](https://advdepot.com/products/bmw-oil-change-kit-f750gs-f850gs)
-- [Bob's BMW](https://www.bobsbmw.com/store/product/complete-oil-change-kit-for-f750gs-f850gs--adv-f900rxr)
+- [Bob's BMW](https://www.bobsmotorcycles.com/product/complete-oil-change-kit-for-f750gs-f850gs-adv-f900rxr/)
 - [Sierra BMW](https://www.shopbmwmotorcycle.com/products/bmw-f850gs-f750gs-oil-change-kit)
 
 ## Tools
